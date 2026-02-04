@@ -21,3 +21,5 @@ Latest Youtube Videos
 [![Telegram](https://img.shields.io/badge/-TG-e5e7eb?logo=telegram&logoColor=26A5E4)](https://t.me/cashunin)
 [![Instagram](https://img.shields.io/badge/-INST-e5e7eb?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cashunin/)
 [![YouTube](https://img.shields.io/badge/-YT-e5e7eb?logo=youtube&logoColor=FF0000)](https://www.youtube.com/@m1ghtbeats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashunin)](https://github.com/anuraghazra/github-readme-stats)
